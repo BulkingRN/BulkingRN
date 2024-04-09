@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...The ROck
-- ⚡ Fun fact: im a completer beginner
+- ⚡ Fun fact: im a complete beginner
 
 <!---
 BulkingRN/BulkingRN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
